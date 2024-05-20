@@ -1,2 +1,2 @@
-objectid,filename,youtubeid,title,format,description,creator,date,subject,location,latitude,longitude,source,findingaid,identifier,rights,rightsstatement,type,language
-ob1,me-n-playdate.jpg,,Me holding my playdate,image/jpeg,me holding my playdate,"Post, Colin",2024/04/29,video games,,,,,,,,,Image;StillImage,
+objectid,filename,youtubeid,title,format,description,creator,date,subject,location,latitude,longitude,source,identifier,rights,rightsstatement,type,language
+ob1,me-n-playdate.jpg,,My new best friend,image/jpeg,"Dr. Post poses with the Playdate, a handheld gaming console with a crank.","Post, Colin",2024-04-29,computer games,,,,,,,,Image;StillImage,
