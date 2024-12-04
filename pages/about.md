@@ -2,7 +2,7 @@
 title: About
 layout: about
 permalink: /about.html
-credits: true
+credits: false
 ---
 
 {% include feature/jumbotron.html objectid="ob2" %}
